@@ -1,0 +1,8 @@
+Transition 0:
+Starting transition
+Default manufacturer footprint
+
+Transition 1:
+Removed ground plane under trace to improve match.
+
+Transition 2:
